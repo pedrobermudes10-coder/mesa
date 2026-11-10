@@ -1,0 +1,23 @@
+# Só entra no repositório o que está liberado abaixo (a pasta de trabalho tem outras coisas)
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/TERCEIROS.md
+!/build-appimage.sh
+!/build-windows.sh
+!/mesa/
+!/plugins/
+!/windows/
+
+/mesa/__pycache__/
+/mesa/mesa.desktop
+/plugins/rnnoise-0.2/
+/plugins/rnnoise-0.2-win/
+/plugins/*.so
+/plugins/*.dll
+/plugins/*.exe
+/plugins/teste/bancada
+/plugins/teste/*.exe
+/windows/pacote/
+/windows/eapo/
